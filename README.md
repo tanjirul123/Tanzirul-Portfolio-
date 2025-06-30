@@ -1,1 +1,62 @@
 # Tanzirul-Portfolio-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tanzirul Islam | Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #2563eb; color: white; padding: 40px 20px; text-align: center; }
+        nav { background: #f4f4f4; padding: 10px; text-align: center; position: sticky; top: 0; }
+        nav a { margin: 0 15px; text-decoration: none; color: #2563eb; font-weight: bold; }
+        section { padding: 40px 20px; }
+        h2 { color: #2563eb; }
+        footer { background-color: #eee; padding: 20px; text-align: center; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tanzirul Islam</h1>
+        <p>Professional Data Entry & File Conversion Expert</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a dedicated and detail-oriented freelancer skilled in data entry, typing, file conversion, PDF editing, and more. Accuracy and client satisfaction are my top priorities.</p>
+    </section>
+    <section id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Manual Typing (Scanned/Handwritten)</li>
+            <li>PDF to Word/Excel/Image</li>
+            <li>PDF Editing</li>
+            <li>Google Docs & Sheets</li>
+            <li>Lead Generation & Web Research</li>
+            <li>Data Mining & B2B Leads</li>
+        </ul>
+    </section>
+    <section id="portfolio">
+        <h2>My Fiverr Gigs</h2>
+        <ul>
+            <li><a href="https://www.fiverr.com/s/ZmwV8Q4" target="_blank">PDF to Word Gig</a></li>
+            <li><a href="https://www.fiverr.com/s/vv20l5N" target="_blank">Data Entry & Conversion</a></li>
+            <li><a href="https://www.fiverr.com/s/akw6rX8" target="_blank">File Conversion & Research</a></li>
+            <li><a href="https://www.fiverr.com/s/lj5PaG2" target="_blank">Virtual Assistant Gig</a></li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: tanzirulwww666@gmail.com</p>
+        <p>Fiverr: <a href="https://www.fiverr.com/s/ZmwV8Q4" target="_blank">Visit My Fiverr</a></p>
+    </section>
+    <footer>
+        &copy; 2025 Tanzirul Islam. All rights reserved.
+    </footer>
+</body>
+</html>
